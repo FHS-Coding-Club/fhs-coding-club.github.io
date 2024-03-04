@@ -30,13 +30,13 @@ const Contact = () => {
         <div className="mt-[6rem] ml-[5rem]">
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAjbKeAjjlNA4Mm2mKYeBYmo4hi3uqjgTMHsMaSY3s5nAtpQ/viewform?usp=sf_link" target="_blank">
             <iframe
-              src="https://docs.google.com/forms/d/e/1FAIpQLSfAjbKeAjjlNA4Mm2mKYeBYmo4hi3uqjgTMHsMaSY3s5nAtpQ/viewform?usp=sf_link"
+              src="https://docs.google.com/forms/d/e/1FAIpQLSfN9g0ue_xSZGmu-y_ghaBXFn9vmCueEV0hrULpbKEYeoqcSw/viewform?embedded=true"
               width="700"
               height="600"
               frameborder="0"
               marginheight="0"
               marginwidth="0"
-              className="rounded-2xl"
+              className="rounded-2xl sm:w-full w-[500px]"
             >
               Loading…
             </iframe>
